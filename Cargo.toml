@@ -1,0 +1,11 @@
+[package]
+name = "automatons"
+version = "0.1.0"
+authors = ["al3x al3x@al3x.io"]
+edition = "2021"
+description = "some examples of automatons"
+repository = "https://gitlab.com/0al3x/automatons.git"
+license = "MIT OR GNU Gpl v3"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
